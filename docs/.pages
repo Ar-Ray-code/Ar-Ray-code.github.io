@@ -1,0 +1,4 @@
+nav:
+    - HOME: index.md
+    - GitHub: 01_GitHub
+    - Blog: 02_Blog
