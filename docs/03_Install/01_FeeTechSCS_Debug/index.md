@@ -25,13 +25,13 @@ FT_SCServo_Debug_Qt
 
 | version | release date | url |
 | --- | --- | --- |
-| 0.0.1 | 2023-08-17 | [URL](https://s3.ap-northeast-1.wasabisys.com/download-raw/dpkg/FT_SCSERVO/ft-scservo-debug-qt_v0.0.1_x86_64.deb) |
+| 0.0.1 | 2023-08-17 | [URL](https://s3.ap-northeast-1.wasabisys.com/download-raw/dpkg/FT_SCSERVO/ft-scservo-debug-qt_0.0.1_amd64.deb) |
 
 ### arm64 (aarch64)
 
 | version | release date | url |
 | --- | --- | --- |
-| 0.0.1 | | |
+| 0.0.1 | 2023-08-17 | [URL](https://s3.ap-northeast-1.wasabisys.com/download-raw/dpkg/FT_SCSERVO/ft-scservo-debug-qt_0.0.1_arm64.deb) |
 
 ## 主な変更履歴
 
