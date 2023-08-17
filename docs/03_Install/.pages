@@ -1,0 +1,3 @@
+nav:
+    - About : index.md
+    - FeeTechSCS-Debug: 01_FeeTechSCS_Debug
