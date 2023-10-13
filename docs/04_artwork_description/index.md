@@ -2,6 +2,6 @@
 
 作品の説明ページです
 
-## dpkg
+## 作品一覧
 
 - [ﾛｽﾀｯｸﾁｬﾝ](01_rostackchan/index.md)
