@@ -67,3 +67,39 @@
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20230325/20230325192805.png)
 
+[（2023-07-10）からあげ先生、闇のエンジニア辞めるってよ（暗黒オフ会#1）](https://ar-ray.hatenablog.com/entry/2023/07/10/100231)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20230710/20230710093719.png)
+
+
+[（2023-08-06）ROS 2で動くｽﾀｯｸﾁｬﾝを作ってみた（ros2_control）](https://ar-ray.hatenablog.com/entry/2023/08/06/212152)
+
+![](https://github.com/Ar-Ray-code/rostack-chan/blob/main/images/stackchan.gif?raw=true)
+
+
+[（2023-11-18）LiPoバッテリーを購入したら掃除機が付属してきました。](https://ar-ray.hatenablog.com/entry/2023/11/18/234812)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20231118/20231118232321.png)
+
+
+[（2023-12-25）クリスマスプレゼントにぴったり？なメカナムロボットを買った（電子工作日記）](https://ar-ray.hatenablog.com/entry/2023/12/25/235908)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20231225/20231225235321.jpg)
+
+## 2024年
+
+[（2024-01-21）RaspberryPi4でRealSenseを2台接続する方法（RealSense・ROCK5・RaspberryPi4・v4l2-backend）](https://ar-ray.hatenablog.com/entry/2024/01/21/152438)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20240121/20240121133923.png)
+
+[（2024-02-11）バスの降車ボタンで楽しいLチカライフ💡🚎（電子工作日記）](https://ar-ray.hatenablog.com/entry/2024/02/11/190425#google_vignette)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20240211/20240211182720.png)
+
+[（2024-03-23）ロボットタクシーに乗ってきました](https://ar-ray.hatenablog.com/entry/2024/03/23/081725)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20240323/20240323073752.png)
+
+[（2024-03-25）CoRE-1 2024（2日目）](https://ar-ray.hatenablog.com/entry/2024/03/25/184230)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20240325/20240325180624.png)

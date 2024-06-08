@@ -29,3 +29,7 @@ motpyのROS2ラッパーです。物体追跡を行います。
 YOLOv5のROS2ラッパーです。
 
 <br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StrayedCats&repo=detector2d)](https://github.com/StrayedCats/detector2d)
+
+2D物体検出のROS2パッケージのベースです。CoRE-1用に作りました。

@@ -1,4 +1,4 @@
-# Ar-Rayのgithub.io
+# Ar-Ray（えいあーるれい）
 
 高専卒→ロボット開発系のエンジニアです。
 
@@ -8,10 +8,14 @@
 
 ものづくり＆記事作成が趣味です。
 
+ガジェットしばきも好きです。
+
 <br>
 
 ## 取り組んでいること
 誰でも・生涯ものづくりを楽しめる社会を目指しています。
+
+そのために、私はものづくりを楽しみます😊
 
 ### 運営しているコミュニティ
 
@@ -30,16 +34,10 @@
 
 <br>
 
-以下のバナーから各SNSに飛びます。（以下のバナーは全て外部リンク）
+## SNSなど
 
-[![GitHub](./image/GitHub.png)](https://github.com/Ar-Ray-code)
-
-**[おすすめリポジトリはこちら（サイト内リンク）](./01_GitHub/)**
-
-[![HatenaBLOG](./image/Hatenablog.png)](https://ar-ray.hatenablog.com/)
-
-**[ブログのおすすめ回はこちら（サイト内リンク）](./02_Blog/01_osusume/)**
-
-[![Twitter](./image/Twitter.png)](https://twitter.com/Ray255Ar)
+- [GitHub（Ar-Ray-code）](https://github.com/Ar-Ray-code)
+- [Hatenablog](https://ar-ray.hatenablog.com/)
+- [𝕏](https://x.com/Ray255Ar)
 
 <br>

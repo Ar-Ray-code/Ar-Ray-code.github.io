@@ -2,7 +2,7 @@
 
 「Raspbian bullseye上でROS 2を動かす」だけを目標に作成されたリポジトリ群です。
 
-わりと動きます。マジで。
+最近Bookworm&Ironに対応しました。
 
 ![](https://raw.githubusercontent.com/Ar-Ray-code/rpi-bullseye-ros2/main/images_for_readme/rviz_rpi.jpg)
 

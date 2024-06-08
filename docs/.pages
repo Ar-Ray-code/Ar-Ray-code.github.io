@@ -1,6 +1,6 @@
 nav:
-    - HOME: index.md
-    - GitHub: 01_GitHub
-    - Blog: 02_Blog
-    - Install: 03_Install
-    - ArtworkDescription: 04_artwork_description
+    - 🏠 HOME: index.md
+    - 😺 GitHub: 01_GitHub
+    - 📝 Blog: 02_Blog
+    - 🎨 ArtworkDescription: 04_artwork_description
+    - 💼 Career: 05_Career

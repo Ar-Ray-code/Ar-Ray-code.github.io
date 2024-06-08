@@ -1,5 +1,5 @@
 nav:
     - About : index.md
-    - 物体検出など : 01_ObjectDetection
-    - RaspbianでROS 2を動かす: 02_RPI_ROS2
-    - おもしろ？リポジトリ: 03_joke
+    - 🔎 物体検出など : 01_ObjectDetection
+    - 🐢 RaspbianでROS 2を動かす: 02_RPI_ROS2
+    - 🎠 おもしろ？リポジトリ: 03_joke
