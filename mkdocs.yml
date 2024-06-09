@@ -3,7 +3,7 @@ site_url: https://github.com/Ar-Ray-code
 repo_url: https://github.com/Ar-Ray-code/Ar-Ray-code.github.io
 edit_uri: https://github.com/Ar-Ray-code/Ar-Ray-code.github.io/edit/main/docs/
 docs_dir: docs
-copyright: Copyright &copy; 2023 Ar-Ray-code
+copyright: Copyright &copy; 2024 Ar-Ray-code
 
 theme:
   name: material
