@@ -14,15 +14,19 @@
 
 カジュアル面談も可能ですので、お気軽にご連絡ください🍓（[@Ray255Ar](https://x.com/Ray255Ar)）
 
-HarvestX Career: [URL](https://harvestx.jp/career/)
+HarvestX Career: [Notion URL](https://harvestx.notion.site/HarvestX-7c5d64ca93c64739be4095a194cb5cfd)
 
 ---
 
-### 登壇情報
+### 資料・登壇情報
 
 | イベント名 | 発表内容 | 発表日 |
 | :--- | :--- | :--- |
 | [rosjp #55 Planner特集!](https://rosjp.connpass.com/event/313794/) | [植物工場向けロボットのためのプランニングについて](https://s3.ap-northeast-1.wasabisys.com/download-raw/slide/HarvestX_rosjp55_arai.pdf) | 2024/05/21 |
+
+| 記事名 | 投稿日 |
+| :--- | :--- |
+| ["高専時代のSNS発信"が人生を変えた！ 東大発スタートアップで活躍する、若きエンジニアの挑戦](https://note.com/harvestx/n/nfa57805e2ec4) | 2024/09/29 |
 
 ### リポジトリ（Public）
 
