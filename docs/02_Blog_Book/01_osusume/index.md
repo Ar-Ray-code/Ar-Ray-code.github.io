@@ -103,3 +103,26 @@
 [（2024-03-25）CoRE-1 2024（2日目）](https://ar-ray.hatenablog.com/entry/2024/03/25/184230)
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20240325/20240325180624.png)
+
+[ (2024-07-28) Vision Proを買ってみました（Apple・VR）](https://ar-ray.hatenablog.com/entry/2024/07/28/175646)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20240728/20240728173731.jpg)
+
+
+[ (2024-11-04) RVizで𝕏する（Rviz2・WebEngineWidgets）](https://ar-ray.hatenablog.com/entry/2024/11/04/124434)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20241029/20241029200302.png)
+
+## 2025年
+
+[ (2025-05-31) 小さな犬ロボを長寿命化してみた🔧🔋](https://ar-ray.hatenablog.com/entry/2025/05/31/222037)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20250531/20250531220427.png)
+
+[ (2025-09-30) 海外旅行で苦労を買いました](https://ar-ray.hatenablog.com/entry/2025/09/30/235916)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20250930/20250930210745.png)
+
+[ (2025-10-31) SO-101をMoveItで使用する (ROS Jazzy)](https://ar-ray.hatenablog.com/entry/2025/10/31/203953)
+
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/R/Ray_ar/20251030/20251030234419.png)

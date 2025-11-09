@@ -1,5 +1,28 @@
 # 本
 
+## [RaspberryPi OSではじめるROS 2 ②](https://zenn.dev/array/books/raspi_os_de_hajimeru_ros2_2)
+
+公開日：2024/08/18
+
+「RaspberryPi OSではじめるROS2」の続編・新しいOS 「Bookworm」＆ROS 2-Jazzy対応です。最新のOSでROS 2学習を加速させましょう!
+
+<br>
+
+本書で扱う環境
+
+- Hardware：RaspberryPi 5
+- OS：RaspberryPi OS Bookworm (Linux, Debian12)
+- ROS-Distro：Jazzy
+
+<br>
+
+価格：700円
+
+[![RaspberryPi OSではじめるROS 2 ②](https://res.cloudinary.com/zenn/image/upload/s--e-y0P7ua--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80ZjZlNTdhOGViLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg)](https://zenn.dev/array/books/raspi_os_de_hajimeru_ros2_2)
+
+<br>
+
+
 ## [RaspberryPi OSではじめるROS2](https://zenn.dev/array/books/5efdb438cf8be3)
 
 公開日：2023/02/05

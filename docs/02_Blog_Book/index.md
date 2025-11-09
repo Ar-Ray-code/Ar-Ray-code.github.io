@@ -4,7 +4,7 @@
 
 2020から3年以上継続しています。
 
-月4本程度（不定期）更新中。
+月1本程度（不定期）更新中。
 
 [![HatenaBLOG](../image/Hatenablog.png)](https://ar-ray.hatenablog.com/)
 
